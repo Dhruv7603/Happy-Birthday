@@ -402,3 +402,4 @@ window.addEventListener("resize", function () {
 
   ctx.font = opts.charSize + "px Verdana";
 });
+
